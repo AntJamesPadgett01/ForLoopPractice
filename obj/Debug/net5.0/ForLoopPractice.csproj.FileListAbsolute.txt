@@ -1,0 +1,16 @@
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.exe
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.deps.json
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.runtimeconfig.json
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.dll
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ref\ForLoopPractice.dll
+C:\Users\antho\repos\ForLoopPractice\bin\Debug\net5.0\ForLoopPractice.pdb
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.AssemblyInfo.cs
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.dll
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ref\ForLoopPractice.dll
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.pdb
+C:\Users\antho\repos\ForLoopPractice\obj\Debug\net5.0\ForLoopPractice.genruntimeconfig.cache
